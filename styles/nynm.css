@@ -1,9 +1,25 @@
-title{
-    color: blueviolet;
+/* header related styles */
+.body{
+    font-family: font-family: "Work Sans", sans-serif;
+}
+
+.banner{
+    background-image: url(../images/banner/banner3.png);
+
 }
 .header{
-    color: aqua;
+    
 }
-.image{
-    background: url(../images/gradient2.png);
+.banner-title{
+    color: #FFF;
+    text-align: right;
+    font-size: px;
 }
+.banner-description{
+
+}
+.btn{
+   background-color: #FFF;
+   text-shadow: #5d24c7;
+   width: auto;
+   padding: 10px;
