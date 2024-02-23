@@ -1,25 +1,30 @@
+/* shared stylees */
+body {
+  background-image: url(../images/banner/banner3.png);
+  background-repeat: no-repeat;
+  background-size: 1600px 800px;
+  background-attachment: fixed;
+  padding: 200px 100px;
+  font-family: "Anta", sans-serif;
+  background-color: aliceblue;
+}
 /* header related styles */
-.body{
-    font-family: font-family: "Work Sans", sans-serif;
+.container {
+  text-align: right;
+  justify-content: right;
+  color: aliceblue;
 }
-
-.banner{
-    background-image: url(../images/banner/banner3.png);
-
+.title-text {
+    font-size: 80px;
 }
-.header{
-    
+.primary-description {
+   
 }
-.banner-title{
-    color: #FFF;
-    text-align: right;
-    font-size: px;
+.btn-primary {
+  color: #005fac;
+  border-radius: 5px;
+  border: 0;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
 }
-.banner-description{
-
-}
-.btn{
-   background-color: #FFF;
-   text-shadow: #5d24c7;
-   width: auto;
-   padding: 10px;
