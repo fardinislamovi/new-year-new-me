@@ -36,3 +36,26 @@ body {
   padding: 21px 25px 20px 26px;
 }
 /* main section */
+.failure-img{
+
+}
+.myfailure{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.section-title{
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.section-des{
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  
+}
