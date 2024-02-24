@@ -36,26 +36,29 @@ body {
   padding: 21px 25px 20px 26px;
 }
 /* main section */
-.failure-img{
-
+.main{
+  margin: 0;
+  width: 1600px;
+  display: flex;
 }
-.myfailure{
-display: flex;
-align-items: center;
-justify-content: space-between;
-
-}
-.section-title{
-  color: #151414;
-  font-size: 40px;
-  font-weight: 700;
+.failure{
+  padding: 200px;
+  font-weight: 100px;
+  font-size: 20px;
+  display: flex;
   align-items: center;
-  justify-content: space-between;
   
+}
+.failure img{
+  width: 50%;
+}
+.section{
+  padding-left: 200px;
+}
+
+.section-title{
+
 }
 .section-des{
-  color: #444343;
-  font-size: 16px;
-  font-weight: 400;
-  
+align-items: flex-end;
 }
